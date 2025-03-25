@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Szép az élet!
 
 1
@@ -81,6 +82,12 @@ Szép az élet!
 
 
 
+=======
+Szï¿½p az ï¿½let!
+
+dahida gehgo vagyoook
+csookolom
+>>>>>>> d4aa1ad50de06e84a3bf8ad96a1f86e38c4c4f5e
 
 
 
@@ -90,3 +97,7 @@ Szép az élet!
 
 
 
+<<<<<<< HEAD
+=======
+JurcsÃ³ JÃ¡nos
+>>>>>>> d4aa1ad50de06e84a3bf8ad96a1f86e38c4c4f5e
