@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Sz�p az �let!
+Szép az élet!
 
 1
 2
@@ -14,7 +14,7 @@ Sz�p az �let!
 11
 12
 13
-14
+14 Jurcsó János
 15
 16
 17
@@ -83,7 +83,7 @@ Sz�p az �let!
 
 
 =======
-Sz�p az �let!
+Szï¿½p az ï¿½let!
 
 dahida gehgo vagyoook
 csookolom
@@ -99,5 +99,5 @@ csookolom
 
 <<<<<<< HEAD
 =======
-Jurcsó János
+JurcsÃ³ JÃ¡nos
 >>>>>>> d4aa1ad50de06e84a3bf8ad96a1f86e38c4c4f5e
