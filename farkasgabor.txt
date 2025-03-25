@@ -1,10 +1,16 @@
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Szép az élet!
+=======
+>>>>>>> 92bfac3c89d95cf23ab199796c340b087ff364da
+<<<<<<< HEAD
 <<<<<<< HEAD
 Sz�p az �let!
 =======
 Szép az élet!
 
-1
+1 Blank Máté Norman
 2
 3 Gehgőőő
 4 Dávid Roland jóóónapoóóóóóóót
