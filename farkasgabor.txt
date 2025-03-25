@@ -1,6 +1,12 @@
 <<<<<<< HEAD
-=======
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> c98df3965e482be3db95d909c47de2b95035c18f
+<<<<<<< HEAD
+<<<<<<< HEAD
+Sz�p az �let!
+=======
 Szép az élet!
 =======
 >>>>>>> 92bfac3c89d95cf23ab199796c340b087ff364da
@@ -21,7 +27,7 @@ Szép az élet!
 9
 10
 11
-12
+12 ez egy xaar
 13
 14 Jurcsó János
 15
@@ -93,7 +99,11 @@ Szép az élet!
 
 =======
 Szï¿½p az ï¿½let!
+<<<<<<< HEAD
 >>>>>>> 43229e40b64f61d696bcb5f006d689ffbd9f8d52
+=======
+>>>>>>> b71076a492a20f9380dd8f3eb6de778824f16add
+>>>>>>> c98df3965e482be3db95d909c47de2b95035c18f
 
 dahida gehgo vagyoook
 csookolom
@@ -117,4 +127,8 @@ Szép az élet!
 =======
 JurcsÃ³ JÃ¡nos
 >>>>>>> d4aa1ad50de06e84a3bf8ad96a1f86e38c4c4f5e
+<<<<<<< HEAD
 >>>>>>> 43229e40b64f61d696bcb5f006d689ffbd9f8d52
+=======
+>>>>>>> b71076a492a20f9380dd8f3eb6de778824f16add
+>>>>>>> c98df3965e482be3db95d909c47de2b95035c18f
