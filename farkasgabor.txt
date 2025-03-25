@@ -1,9 +1,12 @@
 <<<<<<< HEAD
 Szép az élet!
+=======
+<<<<<<< HEAD
+Szép az élet!
 
-1
+1 Blank Máté Norman
 2
-3
+3 Gehgőőő
 4 Dávid Roland jóóónapoóóóóóóót
 5
 6
@@ -101,3 +104,4 @@ csookolom
 =======
 JurcsÃ³ JÃ¡nos
 >>>>>>> d4aa1ad50de06e84a3bf8ad96a1f86e38c4c4f5e
+>>>>>>> 43229e40b64f61d696bcb5f006d689ffbd9f8d52
