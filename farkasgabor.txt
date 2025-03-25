@@ -1,10 +1,8 @@
-Szép az élet!
 
-
-1
+1 Blank Máté Norman
 2
-3
-4
+3 Gehgőőő
+4 Dávid Roland jóóónapoóóóóóóót
 5
 6
 7
@@ -12,24 +10,15 @@ Szép az élet!
 9
 10
 11
-12
+12 ez egy xaar
 13
-14
+14 Jurcsó János
 15 Milkovics Csanád
 16
 17
 18
 19
-20
-
-
-
-
-
-
-
-
-
+20 Szabó Noé Bendegúz
 
 
 
@@ -93,6 +82,43 @@ Szép az élet!
 
 <<<<<<< HEAD
 =======
-Jurcsó János
+=======
+Szï¿½p az ï¿½let!
+<<<<<<< HEAD
+>>>>>>> 43229e40b64f61d696bcb5f006d689ffbd9f8d52
+=======
+>>>>>>> b71076a492a20f9380dd8f3eb6de778824f16add
+>>>>>>> c98df3965e482be3db95d909c47de2b95035c18f
+
+dahida gehgo vagyoook
+csookolom
 >>>>>>> d4aa1ad50de06e84a3bf8ad96a1f86e38c4c4f5e
+>>>>>>> 5654bb93ba846ffe2d9cf5c87606a50e0be906bd
+
+
+
+
+
+
+
+
+
+<<<<<<< HEAD
+Jurcsó János
+=======
+Szép az élet!
+>>>>>>> aeef40301afc151e715f173841c1ea26c7019bb8
+=======
+<<<<<<< HEAD
+=======
+JurcsÃ³ JÃ¡nos
+>>>>>>> d4aa1ad50de06e84a3bf8ad96a1f86e38c4c4f5e
+<<<<<<< HEAD
 >>>>>>> bff73f81bab83c765099b556e48a9eaed49cffae
+=======
+<<<<<<< HEAD
+>>>>>>> 43229e40b64f61d696bcb5f006d689ffbd9f8d52
+=======
+>>>>>>> b71076a492a20f9380dd8f3eb6de778824f16add
+>>>>>>> c98df3965e482be3db95d909c47de2b95035c18f
+>>>>>>> 5654bb93ba846ffe2d9cf5c87606a50e0be906bd
