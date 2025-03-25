@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sz�p az �let!
 
 dahida gehgo vagyoook
@@ -12,3 +13,6 @@ csookolom
 
 
 Jurcsó János
+=======
+Szép az élet!
+>>>>>>> aeef40301afc151e715f173841c1ea26c7019bb8
